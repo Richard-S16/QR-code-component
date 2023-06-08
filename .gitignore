@@ -8,11 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+dist
+dist-ssr
 design
 style-guide.md
 README-template.md
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
@@ -25,3 +25,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.vercel
